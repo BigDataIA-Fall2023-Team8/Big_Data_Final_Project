@@ -1,0 +1,7 @@
+moviepy==1.0.3
+streamlit==1.26.0
+SpeechRecognition==3.8.1
+pydub==0.25.1
+youtube-dl
+ffmpeg-python
+pytube
